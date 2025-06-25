@@ -8,6 +8,6 @@
 ❹在主菜单中选择需要进行的操作所对应的序号。
 特别谢鸣：
 FFempeg：一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。
-本项目基于https://github.com/BtbN/FFmpeg-Builds/releases构建
+本项目基于https://github.com/BtbN/FFmpeg-Builds/releases
 
 
