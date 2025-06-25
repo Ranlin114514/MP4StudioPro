@@ -6,6 +6,9 @@
 ❷找到bin目录下的toolsVx.x.bat
 ❸双击该文件
 ❹在主菜单中选择需要进行的操作所对应的序号。
+b站教程：https://www.bilibili.com/video/BV1PeKGzgEza/?vd_source=2b27d3d7096ee9b8e89ce2f7be8fdf27
+国内链接：https://huanglinran.lanzouu.com/b00wmse57a
+密码:bibo
 特别谢鸣：
 FFempeg：一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。
 本项目基于https://github.com/BtbN/FFmpeg-Builds/releases
